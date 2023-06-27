@@ -1,0 +1,7 @@
+
+#EXTM3U
+#EXTINF:-1
+	
+https://edge01.balticlivecam.com/blc/RadissonDaugava/tracks-v1/mono.m3u8?token=f8d7f3e34117b39f8102563f5756567a%3A1687872298208
+#EXTINF:-2
+https://youtu.be/zzJjopSjIMc
